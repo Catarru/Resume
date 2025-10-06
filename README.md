@@ -7,4 +7,7 @@ The site includes:
 - A licensing page highlighting my adjuster credentials across U.S. states
 - Custom styling using HTML and CSS for a polished, user-friendly experience
 
-🔗 [View the live website prototype](https://catarru.github.io/resume/)
+🔗 [View the live website prototype][def]
+
+[def]: https://catarru.github.io/Resume/index.html
+
